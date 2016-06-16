@@ -1,0 +1,64 @@
+img{
+  margin-top: 100px;
+  margin-left: 130px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:link, a:visited{
+  color:black;
+
+}
+
+.search{
+  margin-top: 30px;
+}
+
+.lucky{
+  margin-top: 30px;
+}
+
+#field{
+  width: 500px;
+  height: 32px;
+  background-image:url(https://d2r4pw5uddxm3r.cloudfront.net/content/uploads/imported/uploads/2015/09/googlemic_0.jpg);
+  background-repeat: no-repeat;
+  background-position: 105% 50%;
+  background-size:70px 30px;
+
+}
+
+#mic{
+  width: 100px;
+  height: 50px;
+}
+
+.search{
+
+  height: 35px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+
+}
+
+.lucky{
+
+  height: 35px;
+  background-color: #f2f2f2;
+  border: 1px solid #f2f2f2;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+
+}
+
+li{
+  	float: right;
+  	display: block;
+  	padding: 0 0 0 18px;
+}
