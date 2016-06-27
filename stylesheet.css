@@ -53,12 +53,16 @@ a:link, a:visited{
 ul{
   list-style-type: none;
   margin: 0;
-  padding: 0;
+  padding-right: 88px;
 
 }
 
 li{
   	float: right;
   	display: block;
-  	padding: 0 0 0 18px;
+  	padding: 0 0 0 0px;
+}
+
+#abc{
+  padding-left: 5px;
 }
